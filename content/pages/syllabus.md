@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains and overview and introduction to the course including
+  course objectives, grading scheme and requirements, and a calendar with course topics
+  and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 46af5ce2-96c6-ca75-e961-b45d2203eab2
 ---

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section details the assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: cfb9d13e-77b9-ae6d-f520-767e6c7d1565
 ---
@@ -16,7 +20,7 @@ Twice during the course, students must submit a two-page memorandum of analysis 
 
 ### Strategic Priorities memo
 
-See the [Readings]({{< baseurl >}}/pages/readings)for Sessions 1-3.
+See the {{% resource_link 8aa3f49a-b2fc-b2f1-40d1-b99189b0f56e "Readings" %}}for Sessions 1-3.
 
 *   Select an organization that you are interested in. Feel free to select any company you like, provided you have access to a description of their strategy and strategic priorities.
 *   If you choose a public company listed on a US exchange, you are most likely to find a description of their strategy in the 10-K (description of the business and management’s discussion of operations), annual report, or presentations to investors.
