@@ -21,14 +21,14 @@ Cases and Readings
 {{< tdclose >}}{{< tdopen >}}
 What Strategy Execution Is (and Isn't)
 {{< tdclose >}}{{< tdopen >}}
-Sull, Donald, Rebecca Homkes, and Charles Sull. “{{% resource_link "c6d5b6db-7564-4528-be9d-79ea3f68cb2e" "Why Strategy Execution Unravels—and What to Do About It" %}}." _Harvard Business Review_ (March 2015).
+Sull, Donald, Rebecca Homkes, and Charles Sull. “[Why Strategy Execution Unravels—and What to Do About It](https://hbr.org/2015/03/why-strategy-execution-unravelsand-what-to-do-about-it)." _Harvard Business Review_ (March 2015).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
 Strategy for Execution
 {{< tdclose >}}{{< tdopen >}}
 
-Rumelt, Richard. “{{% resource_link "244f1cb1-8d7c-4e61-a6d4-e912a1ab430b" "The Perils of Bad Strategy" %}}.” _McKinsey Quarterly_ (June 2011).
+Rumelt, Richard. “[The Perils of Bad Strategy](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-perils-of-bad-strategy).” _McKinsey Quarterly_ (June 2011).
 
 Sull, Donald, James Yoder, Charles Sull, and Stefano Turconi. “Strategy for Execution.” (working paper)
 
@@ -59,19 +59,19 @@ Sull, Don and Stefano Turconi. "Canadian Compression Company: Coping with Comple
 {{< tdclose >}}{{< tdopen >}}
 Execution Culture
 {{< tdclose >}}{{< tdopen >}}
-Sull, Donald and Charles Spinosa. “{{% resource_link "b20ccfbe-36e0-418e-a96b-6e10310a1982" "Promise-based Management: The Essence of Execution" %}}.” _Harvard Business Review_ (April 2007). 
+Sull, Donald and Charles Spinosa. “[Promise-based Management: The Essence of Execution](https://hbr.org/2007/04/promise-based-management-the-essence-of-execution).” _Harvard Business Review_ (April 2007). 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 Building an Execution Culture
 {{< tdclose >}}{{< tdopen >}}
-Simons, Robert and Natalie Kindred. "{{% resource_link "e4c44192-edf2-4dca-ae7c-6042511471c5" "Henkel: Building a Winning Culture" %}}." Harvard Business School Case 112-060, February 2012.
+Simons, Robert and Natalie Kindred. "[Henkel: Building a Winning Culture](https://www.hbs.edu/faculty/Pages/item.aspx?num=41466)." Harvard Business School Case 112-060, February 2012.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
 The Execution Loop
 {{< tdclose >}}{{< tdopen >}}
-Sull, Donald. “{{% resource_link "14889efc-48ae-4f30-84f9-a8709d744cea" "Closing the Gap Between Strategy and Execution" %}}.” _Sloan Management Review_ (Summer 2007).
+Sull, Donald. “[Closing the Gap Between Strategy and Execution](https://sloanreview.mit.edu/article/closing-the-gap-between-strategy-and-execution/).” _Sloan Management Review_ (Summer 2007).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -84,9 +84,9 @@ As above.
 Leading Execution From the Middle
 {{< tdclose >}}{{< tdopen >}}
 
-Bartlett, Christopher A., Michael Y. Yoshino, and Perry Fagan. "{{% resource_link "05285637-84b3-4d06-989a-c1aadabbd6f9" "Silvio Napoli at Schindler India (A)" %}}." Harvard Business School Case 303-086, February 2003. (Revised November 2006.)
+Bartlett, Christopher A., Michael Y. Yoshino, and Perry Fagan. "[Silvio Napoli at Schindler India (A)](https://www.hbs.edu/faculty/Pages/item.aspx?num=29632)." Harvard Business School Case 303-086, February 2003. (Revised November 2006.)
 
-Huy, Quy Nguyen. “{{% resource_link "52eefa6e-9905-4e37-8ece-830987b796ba" "In Praise of Middle Managers" %}}.” _Harvard Business Review_ (September, 2001).
+Huy, Quy Nguyen. “[In Praise of Middle Managers](https://hbr.org/2001/09/in-praise-of-middle-managers).” _Harvard Business Review_ (September, 2001).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -103,5 +103,5 @@ Escobari, Martin and Donald Sull. "Brahma versus Antarctica: Reversal of Fortune
 {{< tdclose >}}{{< tdopen >}}
 Competing on Agility
 {{< tdclose >}}{{< tdopen >}}
-Sull, Donald. “{{% resource_link "17a5d13c-b174-4e93-b3dd-899c68415663" "Competing Through Organizational Agility" %}}.” _McKinsey Quarterly_ (December 2009).
+Sull, Donald. “[Competing Through Organizational Agility](https://www.mckinsey.com/business-functions/organization/our-insights/competing-through-organizational-agility).” _McKinsey Quarterly_ (December 2009).
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
